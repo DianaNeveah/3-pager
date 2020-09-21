@@ -1,0 +1,30 @@
+header {background-color:#FFB6C1; height:250px;}
+nav{position:relative;
+top:52px;}
+nav ul li {display:inline;}
+nav ul li a {text-decoration:none; 
+    background-color:#A9A9A9; 
+    color:#ffffff;
+    border-radius: 8px 8px 0px 0px; 
+    padding: 10px 25px 10px 25px; }
+h1{color:#9370db;}
+h3{color:#ffb6c1;}
+p {color: #9370DB;}
+.button{
+  text-decoration: none;
+  background-color: #A9A9A9;
+  color:#ffffff;
+  padding: 10px 25px 10px 25px;
+  border-radius:8px;
+}
+.button:hoover {
+  background-color:#ff1a1a;
+}
+footer{
+    background-color:#FFB6C1;
+    padding:25px;
+    margin-top:20px;
+}
+footer p {color:#ffffff;
+    text-align:center;
+}
